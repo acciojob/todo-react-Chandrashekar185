@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Todo from "./Todo";
-import "./styles.css";
+import "./style.css";
 
 function App() {
   const [input, setInput] = useState("");
